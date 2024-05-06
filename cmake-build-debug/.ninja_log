@@ -1,0 +1,18 @@
+# ninja log v5
+15	644	7367111011687903	src/app/Blueteeth_autogen/timestamp	c2e91dbdd5e7f84d
+1201	1330	7367107987782751	src/app/CMakeFiles/Blueteeth.dir/Blueteeth_autogen/EWIEGA46WW/qrc_res.cpp.obj	9537ab54e133e737
+15	644	7367111011687903	src/app/Blueteeth_autogen/mocs_compilation.cpp	c2e91dbdd5e7f84d
+1180	4742	7367108021903551	src/app/CMakeFiles/Blueteeth.dir/Blueteeth_autogen/mocs_compilation.cpp.obj	f8e95bff7ffe5e2e
+15	644	7367111011687903	G:/Source/C++/Blueteeth/cmake-build-debug/src/app/Blueteeth_autogen/timestamp	c2e91dbdd5e7f84d
+1191	4797	7367108022497924	src/app/CMakeFiles/Blueteeth.dir/main.cpp.obj	7f5ce20262a9791a
+953	1179	7367107986299233	G:/Source/C++/Blueteeth/cmake-build-debug/src/app/Blueteeth_autogen/EWIEGA46WW/qrc_res.cpp	810cfefbccf65f0d
+15	644	7367111011687903	G:/Source/C++/Blueteeth/cmake-build-debug/src/app/Blueteeth_autogen/mocs_compilation.cpp	c2e91dbdd5e7f84d
+953	1179	7367107986299233	src/app/Blueteeth_autogen/EWIEGA46WW/qrc_res.cpp	810cfefbccf65f0d
+1210	5388	7367108028389030	src/app/CMakeFiles/Blueteeth.dir/mainwindow.cpp.obj	996fe8c1512089d2
+5389	6267	7367108036800009	Blueteeth.exe	bd5936ad0140c28a
+9	601	7367115508419295	src/app/Blueteeth_autogen/timestamp	c2e91dbdd5e7f84d
+9	601	7367115508419295	src/app/Blueteeth_autogen/mocs_compilation.cpp	c2e91dbdd5e7f84d
+9	601	7367115508419295	G:/Source/C++/Blueteeth/cmake-build-debug/src/app/Blueteeth_autogen/timestamp	c2e91dbdd5e7f84d
+9	601	7367115508419295	G:/Source/C++/Blueteeth/cmake-build-debug/src/app/Blueteeth_autogen/mocs_compilation.cpp	c2e91dbdd5e7f84d
+620	4753	7367115549940890	src/app/CMakeFiles/Blueteeth.dir/mainwindow.cpp.obj	996fe8c1512089d2
+4754	5341	7367115555031706	src/app/Blueteeth.exe	279d1a1117962d8b

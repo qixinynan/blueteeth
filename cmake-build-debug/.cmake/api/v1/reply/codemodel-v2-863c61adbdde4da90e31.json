@@ -1,0 +1,94 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/app",
+					"jsonFile" : "directory-src.app-Debug-de77eec203e76141027b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Blueteeth",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Blueteeth::@ff93792cf40911dae1b8",
+					"jsonFile" : "target-Blueteeth-Debug-039b84b6d5c8a1f76adb.json",
+					"name" : "Blueteeth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Blueteeth_autogen::@ff93792cf40911dae1b8",
+					"jsonFile" : "target-Blueteeth_autogen-Debug-aa5fa5f5183f2aeb6d23.json",
+					"name" : "Blueteeth_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Blueteeth_autogen_timestamp_deps::@ff93792cf40911dae1b8",
+					"jsonFile" : "target-Blueteeth_autogen_timestamp_deps-Debug-39f25bcd82b6d03b92e7.json",
+					"name" : "Blueteeth_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Source/C++/Blueteeth/cmake-build-debug",
+		"source" : "G:/Source/C++/Blueteeth"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "G:/Source/C++/Blueteeth/cmake-build-debug/src/app/Blueteeth_autogen",
+	"CMAKE_BINARY_DIR" : "G:/Source/C++/Blueteeth/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/Source/C++/Blueteeth/cmake-build-debug/src/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/Source/C++/Blueteeth/src/app",
+	"CMAKE_SOURCE_DIR" : "G:/Source/C++/Blueteeth",
+	"INCLUDE_DIR" : "G:/Source/C++/Blueteeth/cmake-build-debug/src/app/Blueteeth_autogen/include",
+	"INPUTS" : [ "G:/Source/C++/Blueteeth/src/app/assets/tray.ico" ],
+	"LOCK_FILE" : "G:/Source/C++/Blueteeth/cmake-build-debug/src/app/CMakeFiles/Blueteeth_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.3/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "G:/Source/C++/Blueteeth/cmake-build-debug/src/app/CMakeFiles/Blueteeth_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "G:/Source/C++/Blueteeth/src/app/res.qrc",
+	"VERBOSITY" : 0
+}

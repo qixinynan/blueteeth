@@ -1,0 +1,7 @@
+G:/Source/C++/Blueteeth/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Source/C++/Blueteeth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/Source/C++/Blueteeth/cmake-build-debug/src/app/CMakeFiles/Blueteeth.dir
+G:/Source/C++/Blueteeth/cmake-build-debug/src/app/CMakeFiles/edit_cache.dir
+G:/Source/C++/Blueteeth/cmake-build-debug/src/app/CMakeFiles/rebuild_cache.dir
+G:/Source/C++/Blueteeth/cmake-build-debug/src/app/CMakeFiles/Blueteeth_autogen_timestamp_deps.dir
+G:/Source/C++/Blueteeth/cmake-build-debug/src/app/CMakeFiles/Blueteeth_autogen.dir
